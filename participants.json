@@ -1,7 +1,23 @@
 [
   {
+    "name": "Deshira <3",
+    "favorite_open_source_tool": "Python",
+    "why": "I use it for backend development."
+  },
+  {
+    "name": "Ledion Vranja",
+    "favorite_open_source_tool": "Git",
+    "why": "It lets me try anything in my projects because I can always go back to a version that worked."
+  },
+  {
+    "name": "Ermal ",
+    "favorite_open_source_tool": "Java",
+    "why": "its the most famous i thinkkk , and i love it , and other reasons mostly cuz Morea said soo"
+  },
+  {
     "name": "Rigon Haxhijaj",
     "favorite_open_source_tool": "Linux",
     "why": "I like Linux because it gives me the freedom to understand, customize, and control the technology I use."
   }
+  
 ]
